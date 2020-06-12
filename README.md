@@ -7,7 +7,7 @@ Substitutes ~~sfgz_display.~~
 
 Zeigt Kursdaten in enem Display
 
-Seit sfgz_kursverwaltung 9.1.08 wurde dieser Teil ausgelagert und mit dieser neuen Extension **sfgz_display** relaisiert.
+Seit sfgz_kursverwaltung 9.1.08 wurde dieser Teil ausgelagert und mit dieser neuen Extension **sfgz_foyer** relaisiert.
 
 ## Import-Funktionen
 Die Kurse werden automatisch angezeigt, die Belegungen müssen erfasst/ausgewählt werden.
